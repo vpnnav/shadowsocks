@@ -1,0 +1,2 @@
+# shadowsocks
+shadowsocks官网各版本shadowsocks下载地址及备份下载地址
